@@ -1,4 +1,4 @@
-# Lab 0 (Python) — PyPay Risk Monitor: Hardening With SonarCloud Quality Gates
+# Lab 5-2 — PyPay Risk Monitor: Hardening With SonarCloud Quality Gates
 
 ## Story
 You have joined **PyPay**, a fast-growing fintech building internal services for vendor risk checks and payout validation.
